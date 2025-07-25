@@ -1,0 +1,868 @@
+[
+  {
+    "name": "BMW M3 Competition",
+    "brand": "BMW",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 116,
+    "image": "https://images.unsplash.com/photo-1691343865362-7958c6fa6b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxibXclMjBtMyUyMHNlZGFufGVufDB8MHx8fDE3NTA1ODM2MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1691343865362-7958c6fa6b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxibXclMjBtMyUyMHNlZGFufGVufDB8MHx8fDE3NTA1ODM2MjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": true
+  },
+  {
+    "name": "Mercedes AMG GT",
+    "brand": "Mercedes",
+    "type": "Sport",
+    "capacity": 2,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 204,
+    "image": "https://images.unsplash.com/photo-1728061445028-60d752bb1ee2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxtZXJjZWRlcyUyMGFtZyUyMHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzUwNTg1MTEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1728061445028-60d752bb1ee2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxtZXJjZWRlcyUyMGFtZyUyMHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzUwNTg1MTEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": true
+  },
+  {
+    "name": "Audi R8 V10",
+    "brand": "Audi",
+    "type": "Sport",
+    "capacity": 2,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 293,
+    "image": "https://images.unsplash.com/photo-1575225929311-30a188430dec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxhdWRpJTIwcjglMjBzdXBlcmNhcnxlbnwwfDB8fHwxNzUwNTgzNjMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1575225929311-30a188430dec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxhdWRpJTIwcjglMjBzdXBlcmNhcnxlbnwwfDB8fHwxNzUwNTgzNjMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": true,
+    "isRecommended": true
+  },
+  {
+    "name": "Porsche 911 Carrera",
+    "brand": "Porsche",
+    "type": "Sport",
+    "capacity": 2,
+    "transmission": "Manual",
+    "fuel": "Gasoline",
+    "price": 251,
+    "image": "https://images.unsplash.com/photo-1728216293069-5987081b7be4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxwb3JzY2hlJTIwOTExJTIwc3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3NTA1ODUxMTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1728216293069-5987081b7be4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxwb3JzY2hlJTIwOTExJTIwc3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3NTA1ODUxMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Ferrari 488 GTB",
+    "brand": "Ferrari",
+    "type": "Sport",
+    "capacity": 2,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 399,
+    "originalPrice": 411,
+    "image": "https://images.unsplash.com/photo-1696581084306-591db2e1af14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxmZXJyYXJpJTIwcmVkJTIwc3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3NTA1ODUxMTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1696581084306-591db2e1af14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxmZXJyYXJpJTIwcmVkJTIwc3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3NTA1ODUxMTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": true
+  },
+  {
+    "name": "BMW 7 Series",
+    "brand": "BMW",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 158,
+    "originalPrice": 189,
+    "image": "https://images.unsplash.com/photo-1731142582229-e0ee70302c02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxibXclMjA3JTIwc2VyaWVzJTIwbHV4dXJ5JTIwc2VkYW58ZW58MHwwfHx8MTc1MDU4NTExNnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1731142582229-e0ee70302c02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxibXclMjA3JTIwc2VyaWVzJTIwbHV4dXJ5JTIwc2VkYW58ZW58MHwwfHx8MTc1MDU4NTExNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Mercedes S-Class",
+    "brand": "Mercedes",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 171,
+    "image": "https://images.unsplash.com/photo-1705251464551-5b7f74314a43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxtZXJjZWRlcyUyMHMlMjBjbGFzcyUyMGx1eHVyeSUyMHNlZGFufGVufDB8MHx8fDE3NTA1ODUxMTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1705251464551-5b7f74314a43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxtZXJjZWRlcyUyMHMlMjBjbGFzcyUyMGx1eHVyeSUyMHNlZGFufGVufDB8MHx8fDE3NTA1ODUxMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Audi A8",
+    "brand": "Audi",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 161,
+    "image": "https://images.unsplash.com/photo-1718199641744-24cd055edc7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxhdWRpJTIwYTglMjBsdXh1cnklMjBzZWRhbnxlbnwwfDB8fHwxNzUwNTg1MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1718199641744-24cd055edc7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxhdWRpJTIwYTglMjBsdXh1cnklMjBzZWRhbnxlbnwwfDB8fHwxNzUwNTg1MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Lexus LS",
+    "brand": "Lexus",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 143,
+    "image": "https://images.unsplash.com/photo-1619810148944-b8ae943b049a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxsZXh1cyUyMGxzJTIwbHV4dXJ5JTIwc2VkYW58ZW58MHwwfHx8MTc1MDU4NTEyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1619810148944-b8ae943b049a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxsZXh1cyUyMGxzJTIwbHV4dXJ5JTIwc2VkYW58ZW58MHwwfHx8MTc1MDU4NTEyMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Genesis G90",
+    "brand": "Genesis",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 124,
+    "image": "https://images.unsplash.com/photo-1651561028053-517dd21d5d89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxnZW5lc2lzJTIwZzkwJTIwbHV4dXJ5JTIwc2VkYW58ZW58MHwwfHx8MTc1MDU4NTEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1651561028053-517dd21d5d89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxnZW5lc2lzJTIwZzkwJTIwbHV4dXJ5JTIwc2VkYW58ZW58MHwwfHx8MTc1MDU4NTEyM3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "BMW X5",
+    "brand": "BMW",
+    "type": "SUV",
+    "capacity": 7,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 86,
+    "image": "https://images.unsplash.com/photo-1635990215146-9931957ac509?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxibXclMjB4NSUyMHN1dnxlbnwwfDB8fHwxNzUwNTg1MTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1635990215146-9931957ac509?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxibXclMjB4NSUyMHN1dnxlbnwwfDB8fHwxNzUwNTg1MTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Mercedes GLE",
+    "brand": "Mercedes",
+    "type": "SUV",
+    "capacity": 7,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 103,
+    "image": "https://images.unsplash.com/photo-1692970096012-599b1d7c62c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxtZXJjZWRlcyUyMGdsZSUyMHN1dnxlbnwwfDB8fHwxNzUwNTg1MTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1692970096012-599b1d7c62c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxtZXJjZWRlcyUyMGdsZSUyMHN1dnxlbnwwfDB8fHwxNzUwNTg1MTI3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Audi Q7",
+    "brand": "Audi",
+    "type": "SUV",
+    "capacity": 7,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 85,
+    "originalPrice": 118,
+    "image": "https://images.unsplash.com/photo-1662641220355-7fb77c16f733?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxhdWRpJTIwcTclMjBzdXZ8ZW58MHwwfHx8MTc1MDU4NTEyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1662641220355-7fb77c16f733?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxhdWRpJTIwcTclMjBzdXZ8ZW58MHwwfHx8MTc1MDU4NTEyOXww&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": true
+  },
+  {
+    "name": "Tesla Model X",
+    "brand": "Tesla",
+    "type": "SUV",
+    "capacity": 7,
+    "transmission": "Automatic",
+    "fuel": "Electric",
+    "price": 114,
+    "image": "https://images.unsplash.com/photo-1663585119364-df908a5d18f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHx0ZXNsYSUyMG1vZGVsJTIweCUyMGVsZWN0cmljJTIwc3V2fGVufDB8MHx8fDE3NTA1ODUxMzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1663585119364-df908a5d18f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHx0ZXNsYSUyMG1vZGVsJTIweCUyMGVsZWN0cmljJTIwc3V2fGVufDB8MHx8fDE3NTA1ODUxMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": true,
+    "isRecommended": false
+  },
+  {
+    "name": "Range Rover Sport",
+    "brand": "Land Rover",
+    "type": "SUV",
+    "capacity": 7,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 127,
+    "image": "https://images.unsplash.com/photo-1583268108188-a21e48eace09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxyYW5nZSUyMHJvdmVyJTIwc3BvcnQlMjBsdXh1cnklMjBzdXZ8ZW58MHwwfHx8MTc1MDU4NTEzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1583268108188-a21e48eace09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxyYW5nZSUyMHJvdmVyJTIwc3BvcnQlMjBsdXh1cnklMjBzdXZ8ZW58MHwwfHx8MTc1MDU4NTEzMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": true,
+    "isRecommended": false
+  },
+  {
+    "name": "Toyota Camry",
+    "brand": "Toyota",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 59,
+    "originalPrice": 88,
+    "image": "https://images.unsplash.com/photo-1663530079780-16d36f457319?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHx0b3lvdGElMjBjYW1yeSUyMHNlZGFufGVufDB8MHx8fDE3NTA1ODM2MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1663530079780-16d36f457319?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHx0b3lvdGElMjBjYW1yeSUyMHNlZGFufGVufDB8MHx8fDE3NTA1ODM2MjN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Honda Accord",
+    "brand": "Honda",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 66,
+    "image": "https://images.unsplash.com/photo-1603465833396-5ee350acca47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxob25kYSUyMGFjY29yZCUyMHNlZGFufGVufDB8MHx8fDE3NTA1ODUxMzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1603465833396-5ee350acca47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxob25kYSUyMGFjY29yZCUyMHNlZGFufGVufDB8MHx8fDE3NTA1ODUxMzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Nissan Altima",
+    "brand": "Nissan",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 50,
+    "image": "https://images.unsplash.com/photo-1687730594701-88cdea1ef5ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxuaXNzYW4lMjBhbHRpbWElMjBzZWRhbnxlbnwwfDB8fHwxNzUwNTg1MTM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1687730594701-88cdea1ef5ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxuaXNzYW4lMjBhbHRpbWElMjBzZWRhbnxlbnwwfDB8fHwxNzUwNTg1MTM3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": true
+  },
+  {
+    "name": "Mazda6",
+    "brand": "Mazda",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Manual",
+    "fuel": "Gasoline",
+    "price": 65,
+    "originalPrice": 84,
+    "image": "https://images.unsplash.com/photo-1679157756341-288580b10759?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxtYXpkYTYlMjBzZWRhbnxlbnwwfDB8fHwxNzUwNTg1MTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1679157756341-288580b10759?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxtYXpkYTYlMjBzZWRhbnxlbnwwfDB8fHwxNzUwNTg1MTM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Subaru Legacy",
+    "brand": "Subaru",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 60,
+    "originalPrice": 85,
+    "image": "https://images.unsplash.com/photo-1741171047328-2f3785d67ab1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxzdWJhcnUlMjBsZWdhY3klMjBzZWRhbnxlbnwwfDB8fHwxNzUwNTg1MTQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1741171047328-2f3785d67ab1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxzdWJhcnUlMjBsZWdhY3klMjBzZWRhbnxlbnwwfDB8fHwxNzUwNTg1MTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "BMW i3",
+    "brand": "BMW",
+    "type": "Hatchback",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Electric",
+    "price": 84,
+    "image": "https://images.unsplash.com/photo-1640458594495-ab5c32e5e185?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxibXclMjBpMyUyMGVsZWN0cmljJTIwaGF0Y2hiYWNrfGVufDB8MHx8fDE3NTA1ODUxNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1640458594495-ab5c32e5e185?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxibXclMjBpMyUyMGVsZWN0cmljJTIwaGF0Y2hiYWNrfGVufDB8MHx8fDE3NTA1ODUxNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": true
+  },
+  {
+    "name": "Honda Civic",
+    "brand": "Honda",
+    "type": "Hatchback",
+    "capacity": 4,
+    "transmission": "Manual",
+    "fuel": "Gasoline",
+    "price": 55,
+    "image": "https://images.unsplash.com/photo-1641825877652-23e34a7358fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxob25kYSUyMGNpdmljJTIwaGF0Y2hiYWNrfGVufDB8MHx8fDE3NTA1ODM2MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1641825877652-23e34a7358fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxob25kYSUyMGNpdmljJTIwaGF0Y2hiYWNrfGVufDB8MHx8fDE3NTA1ODM2MjV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Volkswagen Golf",
+    "brand": "Volkswagen",
+    "type": "Hatchback",
+    "capacity": 4,
+    "transmission": "Manual",
+    "fuel": "Gasoline",
+    "price": 49,
+    "image": "https://images.unsplash.com/photo-1655285162488-f495df383244?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHx2b2xrc3dhZ2VuJTIwZ29sZiUyMGhhdGNoYmFja3xlbnwwfDB8fHwxNzUwNTg1MTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1655285162488-f495df383244?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHx2b2xrc3dhZ2VuJTIwZ29sZiUyMGhhdGNoYmFja3xlbnwwfDB8fHwxNzUwNTg1MTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": true,
+    "isRecommended": false
+  },
+  {
+    "name": "Mini Cooper",
+    "brand": "Mini",
+    "type": "Hatchback",
+    "capacity": 4,
+    "transmission": "Manual",
+    "fuel": "Gasoline",
+    "price": 56,
+    "image": "https://images.unsplash.com/photo-1600191920853-1927cf932381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxtaW5pJTIwY29vcGVyJTIwaGF0Y2hiYWNrfGVufDB8MHx8fDE3NTA1ODUxNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1600191920853-1927cf932381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxtaW5pJTIwY29vcGVyJTIwaGF0Y2hiYWNrfGVufDB8MHx8fDE3NTA1ODUxNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Hyundai Elantra",
+    "brand": "Hyundai",
+    "type": "Hatchback",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 46,
+    "image": "https://images.unsplash.com/photo-1607434778157-e72a42021491?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxoeXVuZGFpJTIwZWxhbnRyYSUyMGhhdGNoYmFja3xlbnwwfDB8fHwxNzUwNTg1MTQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1607434778157-e72a42021491?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxoeXVuZGFpJTIwZWxhbnRyYSUyMGhhdGNoYmFja3xlbnwwfDB8fHwxNzUwNTg1MTQ4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": true
+  },
+  {
+    "name": "Toyota Highlander",
+    "brand": "Toyota",
+    "type": "SUV",
+    "capacity": 8,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 68,
+    "originalPrice": 86,
+    "image": "https://images.unsplash.com/photo-1750203926679-a2a2aaeee54a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHx0b3lvdGElMjBoaWdobGFuZGVyJTIwZmFtaWx5JTIwc3V2fGVufDB8MHx8fDE3NTA1ODUxNTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1750203926679-a2a2aaeee54a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHx0b3lvdGElMjBoaWdobGFuZGVyJTIwZmFtaWx5JTIwc3V2fGVufDB8MHx8fDE3NTA1ODUxNTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Honda Pilot",
+    "brand": "Honda",
+    "type": "SUV",
+    "capacity": 8,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 76,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": true
+  },
+  {
+    "name": "Ford Explorer",
+    "brand": "Ford",
+    "type": "SUV",
+    "capacity": 7,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 70,
+    "image": "https://images.unsplash.com/photo-1624210658088-80fe41ebae8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxmb3JkJTIwZXhwbG9yZXIlMjBzdXZ8ZW58MHwwfHx8MTc1MDU4MzYyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "images": [
+      "https://images.unsplash.com/photo-1624210658088-80fe41ebae8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjczOTN8MHwxfHNlYXJjaHwxfHxmb3JkJTIwZXhwbG9yZXIlMjBzdXZ8ZW58MHwwfHx8MTc1MDU4MzYyNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": true
+  },
+  {
+    "name": "Chevrolet Traverse",
+    "brand": "Chevrolet",
+    "type": "SUV",
+    "capacity": 8,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 73,
+    "originalPrice": 101,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Mazda CX-9",
+    "brand": "Mazda",
+    "type": "SUV",
+    "capacity": 7,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 74,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": true
+  },
+  {
+    "name": "Tesla Model S",
+    "brand": "Tesla",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Electric",
+    "price": 147,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Tesla Model 3",
+    "brand": "Tesla",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Electric",
+    "price": 86,
+    "originalPrice": 116,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Lucid Air",
+    "brand": "Lucid",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Electric",
+    "price": 190,
+    "originalPrice": 210,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "BMW iX",
+    "brand": "BMW",
+    "type": "SUV",
+    "capacity": 7,
+    "transmission": "Automatic",
+    "fuel": "Electric",
+    "price": 116,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Mercedes EQS",
+    "brand": "Mercedes",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Electric",
+    "price": 163,
+    "originalPrice": 201,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "BMW 4 Series",
+    "brand": "BMW",
+    "type": "Coupe",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 101,
+    "originalPrice": 140,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": true
+  },
+  {
+    "name": "Mercedes C-Class Coupe",
+    "brand": "Mercedes",
+    "type": "Coupe",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 99,
+    "originalPrice": 120,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": true
+  },
+  {
+    "name": "Audi A5",
+    "brand": "Audi",
+    "type": "Coupe",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 81,
+    "originalPrice": 120,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": true,
+    "isRecommended": true
+  },
+  {
+    "name": "Ford Mustang",
+    "brand": "Ford",
+    "type": "Coupe",
+    "capacity": 4,
+    "transmission": "Manual",
+    "fuel": "Gasoline",
+    "price": 77,
+    "originalPrice": 91,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": true,
+    "isRecommended": true
+  },
+  {
+    "name": "Chevrolet Camaro",
+    "brand": "Chevrolet",
+    "type": "Coupe",
+    "capacity": 4,
+    "transmission": "Manual",
+    "fuel": "Gasoline",
+    "price": 89,
+    "originalPrice": 109,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": true,
+    "isRecommended": false
+  },
+  {
+    "name": "Ford F-150",
+    "brand": "Ford",
+    "type": "Pickup",
+    "capacity": 5,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 71,
+    "originalPrice": 98,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": true,
+    "isRecommended": false
+  },
+  {
+    "name": "Chevrolet Silverado",
+    "brand": "Chevrolet",
+    "type": "Pickup",
+    "capacity": 5,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 73,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": true,
+    "isRecommended": true
+  },
+  {
+    "name": "Ram 1500",
+    "brand": "Ram",
+    "type": "Pickup",
+    "capacity": 5,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 71,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Tesla Cybertruck",
+    "brand": "Tesla",
+    "type": "Pickup",
+    "capacity": 6,
+    "transmission": "Automatic",
+    "fuel": "Electric",
+    "price": 90,
+    "originalPrice": 112,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": true,
+    "isRecommended": false
+  },
+  {
+    "name": "Ford Lightning",
+    "brand": "Ford",
+    "type": "Pickup",
+    "capacity": 5,
+    "transmission": "Automatic",
+    "fuel": "Electric",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Jeep Grand Cherokee",
+    "brand": "Jeep",
+    "type": "SUV",
+    "capacity": 5,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 80,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Volvo XC90",
+    "brand": "Volvo",
+    "type": "SUV",
+    "capacity": 7,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 78,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": true
+  },
+  {
+    "name": "Infiniti Q50",
+    "brand": "Infiniti",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 76,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": true
+  },
+  {
+    "name": "Acura TLX",
+    "brand": "Acura",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 65,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Cadillac CT5",
+    "brand": "Cadillac",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 78,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": true,
+    "isRecommended": false
+  },
+  {
+    "name": "Lincoln Navigator",
+    "brand": "Lincoln",
+    "type": "SUV",
+    "capacity": 8,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 100,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": true
+  },
+  {
+    "name": "Alfa Romeo Giulia",
+    "brand": "Alfa Romeo",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 96,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  },
+  {
+    "name": "Maserati Ghibli",
+    "brand": "Maserati",
+    "type": "Sedan",
+    "capacity": 4,
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "price": 130,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "imagePublicIds": [],
+    "isFavorite": false,
+    "isRecommended": false
+  }
+]

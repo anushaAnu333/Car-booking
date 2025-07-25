@@ -1,36 +1,194 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MORENT - Car Rental Platform
+
+A modern car rental website built with Next.js 14, TypeScript, and Tailwind CSS.
+
+## Features
+
+- 🚗 Browse available cars
+- 🔍 Search functionality
+- ❤️ Favorite cars
+- 📅 Rental booking form
+- 🎨 Modern, responsive design
+- 🚀 Fast performance with Next.js
+- 🛠️ Built-in API routes
+
+## Tech Stack
+
+- **Framework:** Next.js 14 (App Router)
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React
+- **Package Manager:** npm
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+
+- Node.js 18+ installed
+- npm or yarn package manager
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone <your-repo-url>
+cd carrental
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## API Endpoints
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The project includes several API routes for managing data:
 
-## Learn More
+### Cars API
 
-To learn more about Next.js, take a look at the following resources:
+- `GET /api/cars` - Get all cars
+- `GET /api/cars/[id]` - Get a specific car
+- `GET /api/cars/search?q=<query>` - Search cars
+- `POST /api/cars` - Add a new car
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Rentals API
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- `GET /api/rentals` - Get all rentals
+- `POST /api/rentals` - Create a new rental
 
-## Deploy on Vercel
+### Favorites API
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- `GET /api/favorites` - Get favorite cars
+- `POST /api/favorites` - Add a car to favorites
+- `DELETE /api/favorites` - Remove a car from favorites
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Project Structure
+
+```
+carrental/
+├── src/
+│   ├── app/
+│   │   ├── api/           # API routes
+│   │   ├── layout.tsx     # Root layout
+│   │   ├── page.tsx       # Home page
+│   │   └── globals.css    # Global styles
+│   ├── components/        # React components
+│   │   ├── Header.tsx
+│   │   ├── HeroSection.tsx
+│   │   ├── RentalForm.tsx
+│   │   ├── CarCard.tsx
+│   │   ├── CarList.tsx
+│   │   └── Footer.tsx
+│   ├── data/             # Mock data
+│   │   └── cars.ts
+│   └── types/            # TypeScript types
+│       └── car.ts
+├── public/               # Static assets
+│   └── cars/            # Car images
+└── package.json
+```
+
+## Features Implemented
+
+### Homepage
+
+- Hero section with promotional banners
+- Pick-up and drop-off rental form
+- Popular cars section
+- Recommended cars section
+- Responsive design for all screen sizes
+
+### Components
+
+- **Header:** Logo, search bar, notifications, and user profile
+- **Hero Section:** Two promotional banners with CTA buttons
+- **Rental Form:** Pick-up and drop-off location/date/time selectors
+- **Car Cards:** Display car information with specs and pricing
+- **Footer:** Company info and navigation links
+
+### API Routes
+
+- RESTful API endpoints for cars, rentals, and favorites
+- In-memory data storage (can be replaced with a database)
+- Search and filtering capabilities
+
+## Customization
+
+### Adding New Cars
+
+Edit `src/data/cars.ts` to add new cars to the inventory:
+
+```typescript
+{
+  id: '13',
+  name: 'Tesla Model 3',
+  type: 'Electric',
+  brand: 'Tesla',
+  fuel: 'Electric',
+  transmission: 'Automatic',
+  capacity: 5,
+  price: 120.00,
+  image: '/cars/placeholder.svg',
+  isFavorite: false
+}
+```
+
+### Styling
+
+- Tailwind CSS classes are used throughout
+- Global styles in `src/app/globals.css`
+- Component-specific styles inline with Tailwind
+
+## Deployment
+
+### Vercel (Recommended)
+
+1. Push your code to GitHub
+2. Connect your GitHub repo to Vercel
+3. Deploy with one click
+
+### Other Platforms
+
+Build the production version:
+
+```bash
+npm run build
+npm start
+```
+
+## Environment Variables
+
+No environment variables are required for basic functionality. For production, you may want to add:
+
+- `DATABASE_URL` - For database connection
+- `NEXT_PUBLIC_API_URL` - For API endpoint configuration
+
+## Future Enhancements
+
+- [ ] User authentication
+- [ ] Database integration
+- [ ] Payment processing
+- [ ] Email notifications
+- [ ] Admin dashboard
+- [ ] Real car images
+- [ ] Advanced filtering options
+- [ ] User reviews and ratings
+
+## License
+
+This project is open source and available under the MIT License.
+
+## Support
+
+For support, please open an issue in the GitHub repository.
+# Car-booking
