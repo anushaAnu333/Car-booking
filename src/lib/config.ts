@@ -19,38 +19,11 @@ export const config = {
     nextAuthSecret: process.env.NEXTAUTH_SECRET || "default-dev-secret",
   },
 
-  // Email
-  email: {
-    smtp: {
-      host: process.env.SMTP_HOST || "smtp.gmail.com",
-      port: parseInt(process.env.SMTP_PORT || "587"),
-      user: process.env.SMTP_USER || "",
-      pass: process.env.SMTP_PASS || "",
-    },
-  },
-
   // Cloudinary (for image uploads)
   cloudinary: {
     cloudName: process.env.CLOUDINARY_CLOUD_NAME || "",
     apiKey: process.env.CLOUDINARY_API_KEY || "",
     apiSecret: process.env.CLOUDINARY_API_SECRET || "",
-  },
-
-  // Stripe (for payments)
-  stripe: {
-    publishableKey: process.env.STRIPE_PUBLISHABLE_KEY || "",
-    secretKey: process.env.STRIPE_SECRET_KEY || "",
-    webhookSecret: process.env.STRIPE_WEBHOOK_SECRET || "",
-  },
-
-  // Google Maps
-  googleMaps: {
-    apiKey: process.env.GOOGLE_MAPS_API_KEY || "",
-  },
-
-  // Redis (optional)
-  redis: {
-    url: process.env.REDIS_URL || "redis://localhost:6379",
   },
 
   // Application
